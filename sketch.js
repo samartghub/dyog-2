@@ -137,7 +137,7 @@ function spawnObstacles(){
     obstacle.scale = 0.5;
     obstacle.lifetime = 300;
 
-    this.camera = trex.camera.position.x 
+    
    
    //add each obstacle to the group
     obstaclesGroup.add(obstacle);
